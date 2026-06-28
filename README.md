@@ -205,7 +205,3 @@ This project is intended for educational and research purposes only.
 
 ---
 
-# Authors
-
-Zain Saqib
-Unaiza Rehman 
